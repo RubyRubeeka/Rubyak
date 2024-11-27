@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rubyak/static/css/main.58a0c615.css",
+    "main.js": "/rubyak/static/js/main.7dc03a0c.js",
+    "static/media/IMG_20240712_181022.jpg": "/rubyak/static/media/IMG_20240712_181022.82b50d0fe97df52f5f73.jpg",
+    "index.html": "/rubyak/index.html",
+    "main.58a0c615.css.map": "/rubyak/static/css/main.58a0c615.css.map",
+    "main.7dc03a0c.js.map": "/rubyak/static/js/main.7dc03a0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.7dc03a0c.js"
+  ]
+}
